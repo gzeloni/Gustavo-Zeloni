@@ -1,16 +1,28 @@
-### Hi there 👋
+# Olá!
 
-<!--
-**Gustavo-Zeloni/Gustavo-Zeloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Este é um pequeno resumo sobre mim, minhas experiências e informações úteis.
 
-Here are some ideas to get you started:
+### Links importantes
+[Google Developers](https://developers.google.com/profile/u/gzeloni)
+[Perfil na DIO](https://web.dio.me/users/gustavoluizdejesus?tab=achievements)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiencias
+
+* Linguagens de Programação
+  + Dart
+  + C
+  + C++
+  + Java
+  + Python
+  + PhP
+  + HTML
+  + CSS
+  + JavaScript
+
+* Nuvens (Cloud Computing)
+  + Google Cloud
+  + AWS
+
+* Nuvens (de uso privado em aplicações de datacenters)
+  + Proxmox VE
+  + Linux Server (Ubuntu, Fedora, RHEL)
