@@ -9,12 +9,20 @@
 ### Experiencias
 
 * Linguagens de Programação
-  + Dart + C + C++
-  + Java + Python + PhP
-  + HTML + CSS + JavaScript
+  + Dart 
+  + C 
+  + C++
+  + Java 
+  + Python
+  + PhP
+  + HTML
+  + CSS 
+  + JavaScript
 
 * Nuvens (Cloud Computing)
-  + Google Cloud + AWS
+  + Google Cloud 
+  + AWS
 
 * Nuvens (de uso privado em aplicações de datacenters)
-  + Proxmox VE + Linux Server (Ubuntu, Fedora, RHEL)
+  + Proxmox VE 
+  + Linux Server (Ubuntu, Fedora, RHEL)
