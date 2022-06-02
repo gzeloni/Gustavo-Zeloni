@@ -1,6 +1,6 @@
 # Olá!
 
-## Este é um pequeno resumo sobre mim, minhas experiências e informações úteis.
+## Me chamo Gustavo Zeloni :)
 
 ### Links importantes
 * [Google Developers](https://developers.google.com/profile/u/gzeloni)
@@ -9,20 +9,12 @@
 ### Experiencias
 
 * Linguagens de Programação
-  + Dart
-  + C
-  + C++
-  + Java
-  + Python
-  + PhP
-  + HTML
-  + CSS
-  + JavaScript
+  + Dart + C + C++
+  + Java + Python + PhP
+  + HTML + CSS + JavaScript
 
 * Nuvens (Cloud Computing)
-  + Google Cloud
-  + AWS
+  + Google Cloud + AWS
 
 * Nuvens (de uso privado em aplicações de datacenters)
-  + Proxmox VE
-  + Linux Server (Ubuntu, Fedora, RHEL)
+  + Proxmox VE + Linux Server (Ubuntu, Fedora, RHEL)
