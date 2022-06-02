@@ -3,8 +3,8 @@
 ## Este é um pequeno resumo sobre mim, minhas experiências e informações úteis.
 
 ### Links importantes
-[Google Developers](https://developers.google.com/profile/u/gzeloni)
-[Perfil na DIO](https://web.dio.me/users/gustavoluizdejesus?tab=achievements)
+* [Google Developers](https://developers.google.com/profile/u/gzeloni)
+* [Perfil na DIO](https://web.dio.me/users/gustavoluizdejesus?tab=achievements)
 
 ### Experiencias
 
