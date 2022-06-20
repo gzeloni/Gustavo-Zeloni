@@ -25,4 +25,4 @@
 
 * Nuvens (de uso privado em aplicações de datacenters)
   + Proxmox VE 
-  + Linux Server (Ubuntu, Fedora, RHEL)
+  + Linux Server (Debian e RHEL)
