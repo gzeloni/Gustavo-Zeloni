@@ -1,28 +1,26 @@
-# Olá!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Me chamo Gustavo Zeloni :)
+<p align="left"> 
+  Me chamo Gustavo Zeloni.
+  <strong>Desenvolvimento Mobile e Web.</strong>.<br>
+  
+</p>
 
-### Links importantes
-* [Google Developers](https://developers.google.com/profile/u/gzeloni)
-* [Perfil na DIO](https://web.dio.me/users/gustavoluizdejesus?tab=achievements)
+<p align="left">
+  🦄 Linguagens: <strong>Dart, C, C++, C#, JavaScript e Kotlin.</strong>
+</p>
 
-### Experiencias
+<p align="left">
+  💼 Ferramentas: <strong>Flutter, React.js.</strong>
+</p>
 
-* Linguagens de Programação
-  + Dart 
-  + C 
-  + C++
-  + Java 
-  + Python
-  + PhP
-  + HTML
-  + CSS 
-  + JavaScript
+<p align="left">
+  💌 Redes sociais e contatos importantes: ⤵️
+</p>
 
-* Nuvens (Cloud Computing)
-  + Google Cloud 
-  + AWS
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gustavoluizdejesus@gmail.com" /></a>
 
-* Nuvens (de uso privado em aplicações de datacenters)
-  + Proxmox VE 
-  + Linux Server (Debian e RHEL)
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-zeloni/" /></a>  
