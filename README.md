@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Gustavo Zeloni.
-  <strong>Desenvolvimento Mobile e Web.</strong>.<br>
+  <strong>Desenvolvimento Mobile e Web</strong>.<br>
   
 </p>
 
