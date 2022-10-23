@@ -6,7 +6,7 @@
 
 <p>
 
-Eu sou desenvolvedor **Multiplataforma**.
+Eu sou desenvolvedor **Mobile**.
 
 
 </p>
