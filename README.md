@@ -4,7 +4,7 @@
 
 <p>
 
-Eu sou desenvolvedor **Mobile**.
+Eu sou desenvolvedor.
 
 
 </p>
